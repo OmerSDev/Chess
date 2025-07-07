@@ -1,0 +1,3 @@
+﻿  Pawn.cpp
+C:\Users\iatys\source\repos\year 2 magshimi\Cpp\chess_project_w6\chess_project_itay_omer\Pawn.cpp(6,14): warning C4553: '==': result of expression not used; did you intend '='?
+  chess_project_itay_omer.vcxproj -> C:\Users\iatys\source\repos\year 2 magshimi\Cpp\chess_project_w6\chess_project_itay_omer\x64\Debug\chess_project_itay_omer.exe
